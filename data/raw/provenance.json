@@ -1,0 +1,31 @@
+{
+  "source_title": "Hong Kong Life Tables 2016-2046",
+  "publisher": "Census and Statistics Department, Hong Kong SAR Government",
+  "source_workbook_url": "https://www.censtatd.gov.hk/en/data/stat_report/product/B1120016/att/B1120016092023XXXXB01.xlsx",
+  "source_pdf_url": "https://www.censtatd.gov.hk/en/data/stat_report/product/B1120016/att/B1120016092023XXXXB01.pdf",
+  "retrieval_date_utc": "2026-10-29T15:48:07.990221+00:00",
+  "local_file": "data/raw/hk_life_tables_2016_2046.xlsx",
+  "sha256": "5d2f61cc50f974f918e2f1e957345425003ebd2b010444ffa5f10ec6cb1e6d86",
+  "selected_sheets": [
+    {
+      "sheet_title": "表 2 男性 Table 2 Male (2016)",
+      "reference_year": 2016,
+      "sex": "male"
+    },
+    {
+      "sheet_title": "表 3 女性 Table 3 Female (2016)",
+      "reference_year": 2016,
+      "sex": "female"
+    },
+    {
+      "sheet_title": "表 12 男性 Table 12 Male (2021)",
+      "reference_year": 2021,
+      "sex": "male"
+    },
+    {
+      "sheet_title": "表 13 女性 Table 13 Female (2021)",
+      "reference_year": 2021,
+      "sex": "female"
+    }
+  ]
+}
